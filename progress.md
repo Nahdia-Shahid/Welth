@@ -22,4 +22,3 @@
 - Stack vs Tabs Navigator
 - App Architecture
 - User Authentication
-- Sign In and Sign Up Page UI
