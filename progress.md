@@ -13,3 +13,13 @@
 - TouchableOpacity Component
 - FlatList Component
 - Setup NativeWind (Tailwind CSS)
+
+## 22 August 2026
+
+### React Native Learning Progress
+
+- Routing in React Native (Expo Router)
+- Stack vs Tabs Navigator
+- App Architecture
+- User Authentication
+- Sign In and Sign Up Page UI
