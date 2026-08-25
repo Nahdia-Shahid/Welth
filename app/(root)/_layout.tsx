@@ -9,7 +9,7 @@ export default function RootGroupLayout() {
       return null
     }
   
-    if (isSignedIn) {
+    if (!isSignedIn) {
       return <Redirect href= "/(auth)/sign-in" />
     }
   return <Slot/>;

@@ -3,7 +3,7 @@ import { Tabs } from "expo-router";
 import { Icon, Label, NativeTabs } from "expo-router/unstable-native-tabs";
 import { Platform } from "react-native";
 
-const useNativeTabs = Platform.OS === "android";
+const useNativeTabs = Platform.OS === "ios";
 
 export default function TabLayout() {
   if (useNativeTabs) {
